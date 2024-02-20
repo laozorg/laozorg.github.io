@@ -22,13 +22,13 @@ params:
   comments:
     giscus:
       enable: true
-      repo: username/repo
-      repo_id: xxx
+      repo: laozorg/laozorg.github.io
+      repo_id: R_kgDOLVHMww
       category: Announcements
-      category_id: xxx
+      category_id: DIC_kwDOLVHMw84CdXUd
       mapping: pathname
-      position: top
-      lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
+      position: bottom
+      lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
     # utteranc:
     #   enable: false
     #   repo: username/xxx
@@ -38,7 +38,7 @@ params:
     #   SiteVerificationTag: xxx
     umami:
       enable: true
-      website_id: xxx
+      website_id: c2de3c74-46a8-4ad5-ae04-4f22f1db26bb
       url: https://ana.laoz.org
   social:
     - name: X
@@ -62,9 +62,9 @@ languages:
         - name: 分类
           url: /tags
           weight: 2
-        - name: 历史文章
-          url: /archives
-          weight: 3
+        # - name: 历史文章
+        #   url: /archives
+        #   weight: 3
         
 
 taxonomies:
