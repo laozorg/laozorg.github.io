@@ -25,7 +25,7 @@ params:
       repo: laozorg/laozorg.github.io
       repo_id: R_kgDOLVHMww
       category: Announcements
-      category_id: DIC_kwDOLVHMw84CdXUd
+      category_id: DIC_kwDOLVHMw84CdXUc
       mapping: pathname
       position: bottom
       lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
