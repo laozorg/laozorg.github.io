@@ -26,7 +26,7 @@ params:
       repo_id: R_kgDOLVHMww
       category: General
       category_id: DIC_kwDOLVHMw84CdXUd
-      mapping: pathname
+      mapping: url
       position: bottom
       lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
     # utteranc:
