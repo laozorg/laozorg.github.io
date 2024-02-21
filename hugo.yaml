@@ -10,7 +10,7 @@ params:
   brand: HOME
   authorDescription: 'Hi there👋. 我是苏御，一个非标准程序员👨‍💻。欢迎来到我的博客，能帮到你我很很高兴。' # description111
   info: "这里是我的一些碎碎念，新的一年，希望能够坚持写下去。"
-  avatarURL: /images/logo.jpg
+  avatarURL: /images/logo.webp
   author: 苏御
   favicon: /images/dog.png
   options:
