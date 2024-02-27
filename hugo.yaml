@@ -12,7 +12,7 @@ params:
   info: "这里是我的一些碎碎念，新的一年，希望能够坚持写下去。"
   avatarURL: /images/logo.webp
   author: 苏御
-  favicon: /images/dog.png
+  favicon: /images/cookie.png
   options:
     showDarkMode: true
     enableImgZooming: true
