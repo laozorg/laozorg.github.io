@@ -7,7 +7,7 @@ series : ['Linux']
 featured : true
 author: 苏御
 ---
-![oh-my-zsh](https://img.laoz.org/i/2024/65b36e375f8c6.webp)
+<!-- ![oh-my-zsh](https://img.laoz.org/i/2024/65b36e375f8c6.webp) -->
 
 ## 1.安装zsh
 
